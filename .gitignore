@@ -1,0 +1,8 @@
+target
+*.log
+.settings/*
+.classpath
+.gradle/
+.idea/
+.idea/*
+download
